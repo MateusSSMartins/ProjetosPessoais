@@ -43,9 +43,6 @@ botao.addEventListener('click', function logar(){
     }
 })
 
-function naoTem(){
-    alert('Não tem mais, o gui mandou tirar =/');
-}
 
 
 document.addEventListener("keypress", function(e){
